@@ -1,3 +1,5 @@
+# Deliverables
+
 This project explores image classification using the popular CIFAR-10 dataset. The CIFAR-10 dataset consists of 60,000 32x32 color images, divided into 10 classes, each containing 6,000 images. The goal is to classify these images into their respective categories using two classifiers: a Random Classifier and a 1-NN (Nearest Neighbor) Classifier.
 
 The project utilizes Python and NumPy to process and analyze the dataset. It begins by introducing the CIFAR-10 dataset, downloading it, and visualizing random samples from the dataset. It then evaluates the classification accuracy using a custom accuracy function.
